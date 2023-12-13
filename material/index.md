@@ -8,7 +8,7 @@ $ python computacionalThinking.py
 Done!
 ```
 
-Olá pessoal, bem vindos!! 
+Caros e Caras, bem vindos!! 
 
 Neste curso vamos abordar o pensamento computacional, logica de programação e algoritmos computacionais. Para isso vamos nos apoiar na linguagem Python como ferramenta de trabalho. 
 
