@@ -5,7 +5,7 @@ Olá pessoal, bem vindos!! Neste repositório você irá encontrar os conteúdos
 ## Para acompanhar os roteiros práticos 
 
 Acesse o site:
-
+(TODO)
 - [website: https://arnaldojr.github.io/ComputacionalThinking/](https://arnaldojr.github.io/computacionalThinking/)
 
 
